@@ -16,13 +16,13 @@ My work in 3D Graphics centers on OpenGL and Unity.
 
 I'm currently looking for new opportunities to grow and contribute, both locally and abroad.
 
-#Fun Facts:
+**Fun Facts:**
 
-I'm slowly (but steady) learning to produce music
+* I'm slowly (but steady) learning to produce music
 
-I wanna have a giraffe in my future home
+* I wanna have a giraffe in my future home
 
-I love card games like MTG and puzzle videogames like Blue Prince (you can figure this out by checking my repos)
+* I love card games like MTG and puzzle videogames like Blue Prince (you can figure this out by checking my repos)
 
-Hobbies: anime, gym, gaming
+**Hobbies:** anime, gym, gaming
 
