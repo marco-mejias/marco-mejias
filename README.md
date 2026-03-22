@@ -20,7 +20,7 @@ I'm currently looking for new opportunities to grow and contribute, both locally
 
 * I'm slowly (but steady) learning to produce music
 
-* I love card games like MTG and puzzle videogames like Blue Prince (you can figure this out by checking my repos)
+* I love card games like MTG and puzzle videogames like Blue Prince (you can figure this out by checking my repos hehe)
 
 * I wanna adopt a giraffe
 
