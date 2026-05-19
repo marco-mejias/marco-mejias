@@ -18,7 +18,7 @@ I'm currently looking for new opportunities to grow and contribute, both locally
 
 **Fun Facts:**
 
-* I'm slowly (but steady) learning to produce music
+* Someday I will turn into reality my dream game
 
 * I love card games like MTG and puzzle videogames like Blue Prince (you can figure this out by checking my repos hehe)
 
